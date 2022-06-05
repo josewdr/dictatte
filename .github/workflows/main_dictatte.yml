@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'dictatte'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FA91D30BD604E00ABCC7B4E32DC4FCF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48E6153376CA493495F5B936B788DFB7 }}
           package: .
